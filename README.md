@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dashcleancode
-- 👀 I’m interested in DevOps & Cloud Technologies
+- 👀 I’m interested in DevSecOps & Cloud Technologies
 - 📫 How to reach me: davionash@proton.me
 - 😄 Pronouns: He/Him
 - 🪂 Currently: Navigating my way through GitHub, one commit at a time!
